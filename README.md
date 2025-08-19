@@ -39,3 +39,13 @@ Just start with the basics and keep it simple. Learning step-by-step will build 
     - https://www.youtube.com/watch?v=PlbupGCBV6w&list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4
     - https://www.w3schools.com/js/default.asp
     - https://www.geeksforgeeks.org/javascript/javascript-tutorial/
+   
+  - **Python**
+    - https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0
+    - https://www.youtube.com/watch?v=eWRfhZUzrAc&pp=ygUUcHl0aG9uIGZvciBiZWdpbm5lcnM%3D
+    - https://www.tpointtech.com/python-tutorial
+    - https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+    - https://www.coursera.org/learn/python-crash-course#modules
+   
+  - **SQL**
+    - 
