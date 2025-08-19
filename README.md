@@ -48,4 +48,27 @@ Just start with the basics and keep it simple. Learning step-by-step will build 
     - https://www.coursera.org/learn/python-crash-course#modules
    
   - **SQL**
-    - 
+    - https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygURc3FsIGZvciBiZWdpbm5lcnM%3D
+    - https://www.youtube.com/watch?v=hlGoQC332VM&t=103s&pp=ygURc3FsIGZvciBiZWdpbm5lcnPSBwkJrQkBhyohjO8%3D
+    - https://www.youtube.com/watch?v=a-hFbr-4VQQ&list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ
+    - https://www.w3schools.com/sql/sql_intro.asp
+    - https://www.coursera.org/projects/basic-sql-syntax
+   
+  - **PHP**
+    - https://www.youtube.com/watch?v=2eebptXfEvw&pp=ygURcGhwIGZvciBiZWdpbm5lcnM%3D
+    - https://www.youtube.com/watch?v=m52ljs78S24&list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih
+    - https://www.youtube.com/watch?v=BUCiSSyIGGU&pp=ygURcGhwIGZvciBiZWdpbm5lcnM%3D
+    - https://www.w3schools.com/php/php_intro.asp
+    - https://www.freecodecamp.org/news/the-php-handbook/
+
+
+- **Operating Systems Fundamentals**
+    - **Linux & Windows**
+      - https://www.geeksforgeeks.org/operating-systems/introduction-of-operating-system-set-1/
+      - https://www.tutorialspoint.com/operating_system/os_overview.htm
+      - https://www.geeksforgeeks.org/linux-unix/introduction-to-linux-operating-system/
+      - https://www.udemy.com/course/linux-basics-for-beginners/
+      - https://www.youtube.com/watch?v=UVUd9_k9C6A
+      - https://www.youtube.com/watch?v=z2r-p7xc7c4
+      - https://www.youtube.com/watch?v=v_1zB2WNN14
+      - https://www.coursera.org/learn/os-power-user
