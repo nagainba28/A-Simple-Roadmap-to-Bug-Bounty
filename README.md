@@ -72,3 +72,28 @@ Just start with the basics and keep it simple. Learning step-by-step will build 
       - https://www.youtube.com/watch?v=z2r-p7xc7c4
       - https://www.youtube.com/watch?v=v_1zB2WNN14
       - https://www.coursera.org/learn/os-power-user
+
+
+# Get hands-on and build confidence
+  - Labs for CTF, Online, Offline
+    - https://portswigger.net/web-security
+    - https://tryhackme.com/
+    - https://pentesterlab.com/
+    - https://picoctf.org/
+    - https://owasp.org/www-project-juice-shop/
+    - https://www.bugbountyhunter.com/
+    - https://w3challs.com/
+    - https://www.dvwa.co.uk/
+    - https://www.hackthebox.com/
+    - https://www.vulnhub.com/
+    - https://hackthissite.org/
+    - https://www.hackerone.com/hackers/hacker101
+
+# Bug Bounty Platforms
+  - https://www.bugcrowd.com/
+  - https://www.hackerone.com/
+  - https://www.yeswehack.com/
+  - https://www.intigriti.com/
+  - https://www.openbugbounty.org/
+  - https://www.facebook.com/whitehat
+  - https://about.google/appsecurity/
