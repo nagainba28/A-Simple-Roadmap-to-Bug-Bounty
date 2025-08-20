@@ -10,3 +10,4 @@ What is Bug Bounty?
 
 # Contents
 - [Begin with the basics](Begin-with-the-basics.md)
+- [Bug Report Writing](Bug-Report-Format.md)
