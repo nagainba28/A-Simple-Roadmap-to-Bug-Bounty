@@ -9,7 +9,17 @@ What is Bug Bounty?
 - A bug bounty is a program offered by organizations that rewards security researchers for finding and responsibly disclosing vulnerabilities or bugs in their software, websites, or systems. It encourages ethical hacking to improve security by identifying weaknesses before malicious actors can exploit them.
 
 # Where to Start and What to Study?
-Just start with the basics and keep it simple. Learning step-by-step will build a strong foundation for your journey.
+Understanding the basics is the first step to building a strong foundation. Start by learning how web apps work—how browsers communicate with servers over the internet. Get familiar with TCP and how IP addresses identify devices. Explore subnetting, routing, and how DNS translates domain names into IPs.
+
+These core networking concepts are key to navigating and analyzing systems in your bug bounty journey.
+
+- **HTTP Basics**
+  - https://www.hacker101.com/sessions/web_in_depth
+  - https://www.tutorialspoint.com/http/index.htm
+
+- **HTTP Request & Response**
+  - https://www.tutorialspoint.com/http/http_requests.htm
+  - https://www.tutorialspoint.com/http/http_responses.htm
 
 - **Computer Essentials**
   - https://www.youtube.com/watch?v=y2kg3MOk1sY&t=361s
@@ -20,10 +30,12 @@ Just start with the basics and keep it simple. Learning step-by-step will build 
 
 - **Networking Basics**
   - https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi
+  - https://www.youtube.com/watch?v=H8W9oMNSuwo
   - https://www.youtube.com/watch?v=DYgRqIeuwVQ
   - https://www.netacad.com/courses/networking-basics?courseLang=en-US
+  - https://www.udemy.com/course/free-ccna-200-301-network-fundamentals/
   - https://www.coursera.org/learn/computer-networking
-  - https://www.udacity.com/course/networking-for-web-developers--ud256
+  - https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols
  
 - **Programming Languages**
   - **C**
@@ -52,7 +64,7 @@ Just start with the basics and keep it simple. Learning step-by-step will build 
     - https://www.youtube.com/watch?v=hlGoQC332VM&t=103s&pp=ygURc3FsIGZvciBiZWdpbm5lcnPSBwkJrQkBhyohjO8%3D
     - https://www.youtube.com/watch?v=a-hFbr-4VQQ&list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ
     - https://www.w3schools.com/sql/sql_intro.asp
-    - https://www.coursera.org/projects/basic-sql-syntax
+    - https://www.youtube.com/watch?v=9Pzj7Aj25lw
    
   - **PHP**
     - https://www.youtube.com/watch?v=2eebptXfEvw&pp=ygURcGhwIGZvciBiZWdpbm5lcnM%3D
