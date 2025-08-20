@@ -74,6 +74,16 @@ These core networking concepts are key to navigating and analyzing systems in yo
       - https://www.youtube.com/watch?v=z2r-p7xc7c4
       - https://www.youtube.com/watch?v=v_1zB2WNN14
       - https://www.coursera.org/learn/os-power-user
+     
+- **Bug Bounty Basics**
+    - https://www.hacker101.com/start-here
+    - https://www.youtube.com/watch?v=19gIJ7gLbXI
+    - https://blog.m0chan.co.uk/2019/12/17/Bug-Bounty-Cheetsheet.html
+ 
+- **Web Server Basics**
+    - https://codebriefly.com/how-to-setup-apache-php-mysql-on-windows-10/
+    - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+    - https://www.youtube.com/watch?v=-f8N4FEQWyY
 
 
 # Get hands-on and build confidence
