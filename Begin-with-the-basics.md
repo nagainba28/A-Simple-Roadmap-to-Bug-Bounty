@@ -93,6 +93,7 @@ These core networking concepts are key to navigating and analyzing systems in yo
 
 # Bug Bounty Platforms
   - https://www.bugcrowd.com/
+  - https://www.synack.com/red-team/
   - https://www.hackerone.com/
   - https://www.yeswehack.com/
   - https://www.intigriti.com/
