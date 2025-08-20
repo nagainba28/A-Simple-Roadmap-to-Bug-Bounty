@@ -10,6 +10,10 @@ These core networking concepts are key to navigating and analyzing systems in yo
 - **HTTP Request & Response**
   - https://www.tutorialspoint.com/http/http_requests.htm
   - https://www.tutorialspoint.com/http/http_responses.htm
+ 
+- **Cookies & Session**
+  - https://www.youtube.com/watch?v=47s6bfAHcOQ&pp=ygUUY29va2llIHNlc3Npb24gdGFtaWw%3D
+  - https://www.geeksforgeeks.org/javascript/difference-between-session-and-cookies/
 
 - **Computer Essentials**
   - https://www.youtube.com/watch?v=y2kg3MOk1sY&t=361s
