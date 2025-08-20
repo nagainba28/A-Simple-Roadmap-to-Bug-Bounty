@@ -27,3 +27,6 @@
   - Explain what an attacker could achieve if this vulnerability were exploited in the real world.
   - Focus on actual consequences like what possible damages could be done, rather than theoretical scenarios.
   - Should align with the business objective of the organization
+ 
+# Read More...
+- https://www.hackerone.com/blog/bug-bounty-reports-how-do-they-work
