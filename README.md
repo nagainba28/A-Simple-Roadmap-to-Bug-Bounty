@@ -8,4 +8,5 @@ What is a Bug?
 What is Bug Bounty?
 - A bug bounty is a program offered by organizations that rewards security researchers for finding and responsibly disclosing vulnerabilities or bugs in their software, websites, or systems. It encourages ethical hacking to improve security by identifying weaknesses before malicious actors can exploit them.
 
-
+# Contents
+- [Begin with the basics](Begin-with-the-basics.md)
